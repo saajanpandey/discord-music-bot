@@ -12,4 +12,4 @@ for i in range(len(cogs)):
 
 
 
-client.run('ODc4MTQyMzkyOTkyMTYxODU0.YR831Q.1wsTGHEBQI_SGMYShnBhjQnEdFs')
+client.run('') //enter your known bot client code name
